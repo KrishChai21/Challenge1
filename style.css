@@ -71,9 +71,10 @@ p{
 }
 
 .fb{
-    width:2%;
-    margin-left:1300px;
+    width:3%;
+    margin-left:1250px;
     margin-right: 10px;
+    filter: invert(78%) sepia(99%) saturate(0%) hue-rotate(266deg) brightness(109%) contrast(101%);
 }
 
 .socials a:hover{
@@ -84,12 +85,14 @@ p{
 }
 
 .twitter{
-    width:2%;
+    width:3%;
     margin-right: 10px;
+    filter: invert(78%) sepia(99%) saturate(0%) hue-rotate(266deg) brightness(109%) contrast(101%);
 }
 
 .insta{
-    width:2%;
+    width:3%;
+    filter: invert(78%) sepia(99%) saturate(0%) hue-rotate(266deg) brightness(109%) contrast(101%);
 }
 
 .socials{
